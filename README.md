@@ -7,6 +7,7 @@ This repository contains HTML and CSS code to create a basic clone of the Amazon
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [deployed link](#deployedlink)
 
 ## Description
 
@@ -32,3 +33,6 @@ If you wish to make changes or contribute to the project:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
+## Contributing
+
+https://amazon-clone-seven-pearl.vercel.app/
