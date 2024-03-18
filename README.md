@@ -33,6 +33,6 @@ If you wish to make changes or contribute to the project:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## Contributing
+## deployedlink
 
 https://amazon-clone-seven-pearl.vercel.app/
